@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OrderJavaApp</string>
+    <string name="label_1">TOPPINGS</string>
+    <string name="label_2">QUANTITY</string>
+    <string name="label_3">ORDER SUMMARY</string>
+    <string name="customer_name">Name</string>
+    <string name="whipped_cream_selected">Whipped Cream</string>
+    <string name="total">Total</string>
+    <string name="thank_u">Thank You!!!</string>
+</resources>
